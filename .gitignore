@@ -66,3 +66,11 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+GG
+Pods
+GGPublishSDK.xcodeproj
+GGPublishSDK.xcworkspace
+GGPublishSDK
+GGPublish.podspec
+podfile
+Podfile.lock
