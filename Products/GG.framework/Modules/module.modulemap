@@ -1,6 +1,0 @@
-framework module GG {
-  umbrella header "GG.h"
-
-  export *
-  module * { export * }
-}
