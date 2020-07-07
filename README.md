@@ -1,6 +1,6 @@
 # GameGoing Publish SDK Integration
 
-![icon](pic/icon.png)
+![icon](Document/pic/icon.png)
 
 方便开发者快速集成发行能力。
 
