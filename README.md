@@ -17,7 +17,6 @@ SDK集成以下能力：
 - Cocos
 
 ## Cocos Creator 接入
-
 ### Cocos Creator 指引
 
 #### 集成
