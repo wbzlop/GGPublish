@@ -18,21 +18,19 @@ SDK集成以下能力：
 
 ## Cocos Creator 接入
 
-[TOC]
-
 ### Cocos Creator 指引
 
 #### 集成
 
 将 GGPublish-JS 文件夹下文件导入cocos 工程；
 
-####配置
+#### 配置
 
 在GGConfig.js 文件中完成配置，具体信息由运营同学提供；
 
-![setting](pic/setting.png)
+![setting](Document/pic/setting.png)
 
-####接口使用
+#### 接口使用
 
 ##### 初始化
 
@@ -112,11 +110,11 @@ end
 
 4. 点击 XXXXX.xcodeproj 文件打开工程
 
-![configurationsSetting](pic/configurationsSetting.png)
+![configurationsSetting](Document/pic/configurationsSetting.png)
 
 在对应位置添加 **$(inherited)**
 
-![searchSetting](pic/searchSetting.png)
+![searchSetting](Document/pic/searchSetting.png)
 
 5. 新建位于当前目录下的终端窗口，执行：
 
