@@ -74,3 +74,5 @@ GGPublishSDK
 GGPublish.podspec
 podfile
 Podfile.lock
+GGPublishDemo.xcodeproj
+GGPublishDemo.xcworkspace
