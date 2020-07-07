@@ -17,10 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
 /// 初始化sdk
 /// @param appkey appkey(运营提供)
 /// @param adKey 广告key(运营提供)
+/// @param buglyAppId 广告key(运营提供)
 /// @param appleAppId appleId(运营提供)
 /// @param debug 调试模式，可查看更多日志信息
-+(void)initWithAppKey:(NSString * __nonnull)appkey adKey:(NSString * __nonnull)adKey appleAppId:(NSString * __nonnull)appleAppId debug:(BOOL)debug;
-
++(void)initWithAppKey:(NSString *)appkey adKey:(NSString *)adKey buglyAppId:(NSString *)buglyAppId appleAppId:(NSString *)appleAppId debug:(BOOL)debug;
 
 
 
