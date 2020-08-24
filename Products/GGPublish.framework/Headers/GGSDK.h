@@ -12,6 +12,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface GGSDK : NSObject
 
+typedef void(^GetChannelComplete)(NSString *);
+
+
+/// 获取渠道
+/// @param onChannel <#onChannel description#>
++(void)getChannel:(GetChannelComplete)onChannel;
 
 
 /// 初始化sdk
