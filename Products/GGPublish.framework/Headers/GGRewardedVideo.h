@@ -48,6 +48,8 @@ Called after a rewarded video has attempted to show but failed.
 ///是否有广告
 +(BOOL)hasRewardedVideo;
 
++(void)trackTriggleredFail:(NSString *)placementId errorMsg:(NSString *)errorMsg;
+
 @end
 
 NS_ASSUME_NONNULL_END
