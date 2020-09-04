@@ -30,6 +30,12 @@ typedef void(^GetChannelComplete)(NSString *);
 
 
 
+///  如需自定义af key ,请务必在初始化之前调用
+/// @param afKey <#afKey description#>
++(void)setAFKey:(NSString *)afKey;
+
+
+
 @end
 
 NS_ASSUME_NONNULL_END
